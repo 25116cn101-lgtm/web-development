@@ -1,0 +1,22 @@
+div{
+    background-color: black;
+    height: 100px;}
+    .items{ 
+     padding-right: 410px;
+        color: orange;
+        text-decoration: none;
+        font-size: 30px;
+    
+}
+.item{ 
+     padding-right: 410px;
+     text-decoration: none;
+}
+button{
+    background-color: #f08804;
+    color: white;
+
+}
+.item{
+    color: white;
+}
