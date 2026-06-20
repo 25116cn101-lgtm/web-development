@@ -1,0 +1,4 @@
+*
+!blog_project/
+!blog_project/**
+!.gitignore
